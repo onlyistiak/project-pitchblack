@@ -1,0 +1,87 @@
+body{
+	background-color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.main{
+    padding-top: 1.85%;
+}
+img.logo {
+    max-width: 100%;
+    width: 59%;
+    display: block;
+    padding-top: 8%;
+    margin: 0 auto;
+    float: right;
+}
+.logo-head{
+	padding-top: 21%;
+    color: #908a87;
+    font-size: 23px;
+    text-align: center;
+}
+
+.logo-para {
+    color: #908a87;
+    font-size: 13px;
+    text-align: center;
+}
+
+.pitch {
+    color: #928a88;
+    font-weight: 700;
+    font-size: 55px;
+    padding-top: 20%;
+    margin-bottom: 0px;
+}
+.luxury {
+    color: #928a88;
+    font-size: 26px;
+    padding-left: 14.8%;
+}
+.banner {
+    box-shadow: inset 0px 0px 75px 100px black;
+    background: url(../img/banner.jpg);
+    height: 769px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bnr {
+    background: rgba(0, 0, 0, 0.5)!important;
+    height: 769px;
+}
+h2.contact {
+    color: #928a88;
+    text-decoration: underline;
+    font-size: 33px;
+    margin-top: -110px;
+    padding-bottom: 10px;
+}
+
+.col-md-4.foot-point {
+    padding-left: 2%;
+}
+
+
+.foot-point p {
+    font-size: 17.5px;
+    color: #928a88;
+    margin-bottom: 0px;
+    line-height: 28px;
+}
+img.flag {
+    max-width: 100%;
+    width: 7.5%;
+}
+
+.footttt{
+	padding-bottom: .5%;
+}
+
+p.foooot {
+    font-size: 14px!important;
+    padding-top: 23%;
+    color: #928a88;
+}
